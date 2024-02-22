@@ -27,3 +27,7 @@ Deno.test("Generator reset", () => {
   fakeTime.tick(200);
   assertEquals(gen(), 5033594880n);
 });
+
+Deno.test("Async generator", () => {
+
+});
