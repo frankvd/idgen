@@ -31,3 +31,4 @@ Deno.test("Generator reset", () => {
 Deno.test("Async generator", () => {
 
 });
+
